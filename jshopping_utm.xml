@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" version="1.7" method="upgrade" group="jshoppingorder">
+	<name>JoomShopping UTM save</name>
+	<creationDate>15.12.2017</creationDate>
+	<version>1.0.0</version>
+	<author>Alexey Startler</author>
+	<authorEmail>info@startler.ru</authorEmail>
+	<authorUrl>http://startler.ru</authorUrl>
+	<description>JoomShopping UTM plugin. Saves UTM code in order comments.</description>
+    <files>
+        <filename plugin="jshopping_utm">jshopping_utm.php</filename>
+    </files>
+</extension>
